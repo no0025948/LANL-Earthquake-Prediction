@@ -1,0 +1,2 @@
+由於資料集太大，故給網址
+https://www.kaggle.com/c/LANL-Earthquake-Prediction/data
